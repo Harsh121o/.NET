@@ -1,0 +1,10 @@
+﻿@page
+@model HiloMRM3.Pages.Forms.custompizzaModel
+@{
+}
+<a class="nav-link text-dark" asp-area="" asp-page="Checkout/checkout">Checkout</a>
+
+<form method="POST">
+	<input type="text" asp-for="Pizza.name" />
+	<button type="submit" asp-page="">Order My Pizza</button>
+</form>

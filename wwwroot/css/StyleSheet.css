@@ -1,0 +1,119 @@
+﻿
+input {
+    padding: 5px;
+}
+
+body {
+    background-color: #515257;
+    font-family: verdana,sans-serif;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+#form1 {
+    padding: 25px;
+}
+
+.box1 {
+    padding: 10px;
+}
+
+.box1, .table {
+    background-color: rgb(252, 230, 230);
+    margin-bottom: 10px
+}
+
+.btn btn-primary {
+    color: #2F3C7E;
+}
+
+/* zebra striping */
+
+
+
+tbody tr:nth-child(even) {
+    background-color: #C5C6C7;
+}
+
+
+
+table {
+    background-color: #C5C6C7;
+}
+
+.form2table {
+    margin-bottom: 100px;
+}
+
+h4 {
+    text-align: center;
+    color: #eccbdd;
+}
+
+h3 {
+    color: #eccbdd
+}
+
+.btn-primary {
+    font-size: 25px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: #eccbdd;
+    color: #2F3C7E
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.table1 {
+    width: 50px
+}
+
+#imgs {
+    width: 200px;
+    height: auto;
+}
+
+.icon {
+    width: 50px;
+    height: auto;
+    margin: 10px
+}
+
+.icon1 {
+    position: relative;
+    display: inline-block;
+}
+
+.icon2 {
+    left: 300px;
+    display: inline-block;
+}
+
+button {
+    margin: 10px
+}
+
+input {
+    margin: 10px
+}
+
+.list {
+    background-color: #eccbdd;
+    padding: 25px;
+}
+
+div {
+    box-shadow: 2px 2px 2px white;
+}
+
+.main {
+    width: 50px;
+    position: relative;
+    transition: transform 4s;
+    transform: rotate3d(1, 1, 1, 45deg);
+}

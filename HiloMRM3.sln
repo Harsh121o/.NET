@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiloMRM3", "HiloMRM3.csproj", "{744F66A0-0066-4C91-A100-B95E9CA6401E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744F66A0-0066-4C91-A100-B95E9CA6401E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744F66A0-0066-4C91-A100-B95E9CA6401E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744F66A0-0066-4C91-A100-B95E9CA6401E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744F66A0-0066-4C91-A100-B95E9CA6401E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {167F9613-FB5C-4DAC-B629-0B364C1C663E}
+	EndGlobalSection
+EndGlobal
